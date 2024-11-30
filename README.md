@@ -8,6 +8,8 @@ The select_residue_water_residue_combined plugin for PyMOL is designed to:
 2. Calculate distances between residues and water molecules, as well as the total distance across the interaction.
 3. Visualize the interactions in PyMOL with different colors for polar contacts and hydrogen bonds.
 
+# This plugin works only with the incentive version of PyMOL (tested in version 3.1.1) and not with the open-source PyMOL.
+
 # Installation
 	1.	Download the file: select_residue_water_residue_combined.py.
 	2.	Open PyMOL.
