@@ -19,8 +19,11 @@ The select_residue_water_residue_combined plugin for PyMOL is designed to:
 
  # Usage Instructions
  1. Preparing Your Protein Structure
+    
     Load Your Protein Structure
+    
     Define Domain Selections
+    
       Use valid PyMOL selection syntax to define domain1 and domain2.
 
       Examples:
